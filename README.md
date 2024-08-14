@@ -1,4 +1,4 @@
-![Banner](https://github.com/tsmith422/tsmith422/blob/e67347159220979c2d57da012f9d4a7aba9bc408/Personal-Banner.png)
+![Banner](https://github.com/tsmith422/tsmith422/blob/main/Personal-Banner.png)
 
 # 🤠 Howdy, I'm Taylor Smith!
 
