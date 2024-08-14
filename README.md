@@ -1,3 +1,5 @@
+![Banner](https://github.com/tsmith422/tsmith422/Personal-Banner.png)
+
 # 🤠 Howdy, I'm Taylor Smith!
 
 🎓 **Computer Science Major** | Texas A&M University, Class of 2026  
