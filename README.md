@@ -17,13 +17,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmith422&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tsmith422/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmith422&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tsmith422/github-readme-stats#gh-light-mode-only)
+[![Taylor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmith422&layout=compact&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tsmith422/github-readme-stats#gh-dark-mode-only)
+[![Taylor's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=tsmith422&layout=compact&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tsmith422/github-readme-stats#gh-light-mode-only)
 
 ---
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tsmith422&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tsmith422&hide=contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Taylor's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tsmith422&hide=contribs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/tsmith422/github-readme-stats#gh-dark-mode-only)
+[![Taylor's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tsmith422&hide=contribs&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/tsmith422/github-readme-stats#gh-light-mode-only)
 
 ---
 
