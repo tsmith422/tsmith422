@@ -1,6 +1,6 @@
 ![Banner](https://github.com/tsmith422/tsmith422/blob/main/Personal-Banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=500&size=32&duration=4000&color=F7F7F7&width=435&lines=%F0%9F%91%8B%F0%9F%A4%A0+Howdy!;I'm+Taylor+Smith!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=500&size=32&duration=4000&color=F7F7F7&width=435&lines=Howdy!+%F0%9F%91%8B%F0%9F%A4%A0;I'm+Taylor+Smith!)](https://git.io/typing-svg)
 ---
 
 🎓 **Computer Science Major** | Texas A&M University, Class of 2026  
