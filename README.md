@@ -4,7 +4,7 @@
 ---
 
 🎓 **Computer Science Major** | Texas A&M University, Class of 2026  
-📚 **Minor:** Mathematics  
+📚 **Minor:** Game Design, Japanese
 💻 **Interests:** Software Development, Game Development, Cybersecurity  
 
 ---
@@ -34,4 +34,5 @@
 
 ---
 
-*“Give the hardest job to the laziest person, because a lazy person will find an easier way to do it.”*
+<!-- *“Give the hardest job to the laziest person, because a lazy person will find an easier way to do it.”* -->
+*"I'm enjoying the uselessness of today, and readying my usefulness for tomorrow."*
